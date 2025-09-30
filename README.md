@@ -67,4 +67,4 @@ This project can be applied in **real-world educational environments** such as s
 - **Digitally manage faculty and administrative workflows**
 
 ---
-**Use Case** - https://drive.google.com/file/d/1RDj9W30Zlh1Ln55iIMxfq6kjWfscbBKV/view?usp=sharing
+**Demo** - https://drive.google.com/file/d/1RDj9W30Zlh1Ln55iIMxfq6kjWfscbBKV/view?usp=sharing
